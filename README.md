@@ -1,0 +1,2 @@
+# ModuleNeuronBase
+Основы нейронных сетей
